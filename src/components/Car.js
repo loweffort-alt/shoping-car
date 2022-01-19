@@ -37,7 +37,7 @@ class Car extends Component {
           ? <DetallesCarro carro={carro}/>
           : null
         }
-        Hola
+        Holaaaaaaaaaa
       </div>
     )
   }
